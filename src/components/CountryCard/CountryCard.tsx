@@ -1,9 +1,8 @@
-import React from "react";
+import React from 'react';
 
-import countries from "@/data/countries.json";
+import countries from '@/data/countries.json';
 
-import css from "./CountryCard.module.scss";
-
+import css from './CountryCard.module.scss';
 
 type Country = {
   name: string;

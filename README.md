@@ -1,11 +1,11 @@
-
 <h3 align="center">
   <br />
 
-  <a href="https://github.com/yasinatesim/country-gdp-population"><img src="https://yasinates.com/tech/react.svg" alt="React GDP Country App" width="200"></a>
-  <br />
-  React GDP Country App
-  <br />
+<a href="https://github.com/yasinatesim/country-gdp-population"><img src="https://yasinates.com/tech/react.svg" alt="React GDP Country App" width="200"></a>
+<br />
+React GDP Country App
+<br />
+
 </h3>
 <hr />
 <p align="center">A React-based web application to view and compare the GDPs of different countries</p>
