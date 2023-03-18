@@ -12,9 +12,10 @@ React GDP Country App
 <p align="center">
 · <a  href="https://country-gdp-population.yasinatesim.vercel.app/">View Demo</a>
   ·
-  <a href="https://github.com/yasinatesim/country-gdp-country/issues">Report Bug</a>
+  
+  <a href="https://github.com/yasinatesim/country-gdp-population/issues">Report Bug</a>
   ·
-  <a href="https://github.com/yasinatesim/country-gdp-country/issues">Request Feature</a>
+  <a href="https://github.com/yasinatesim/country-gdp-population/issues">Request Feature</a>
 </p>
 
 ## 📖 About
