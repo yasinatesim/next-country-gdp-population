@@ -1,0 +1,125 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "population": 331449281,
+      "gdp": 21427700
+    },
+    {
+      "name": "China",
+      "population": 1404328611,
+      "gdp": 14342900
+    },
+    {
+      "name": "Japan",
+      "population": 126050804,
+      "gdp": 5082460
+    },
+    {
+      "name": "Germany",
+      "population": 83900473,
+      "gdp": 3863344
+    },
+    {
+      "name": "United Kingdom",
+      "population": 67886011,
+      "gdp": 2821666
+    },
+    {
+      "name": "India",
+      "population": 1380004385,
+      "gdp": 2848200
+    },
+    {
+      "name": "France",
+      "population": 65273511,
+      "gdp": 2582500
+    },
+    {
+      "name": "Italy",
+      "population": 60461826,
+      "gdp": 1941900
+    },
+    {
+      "name": "Brazil",
+      "population": 213993437,
+      "gdp": 1871365
+    },
+    {
+      "name": "Canada",
+      "population": 38005238,
+      "gdp": 1697316
+    },
+    {
+      "name": "Russia",
+      "population": 144373535,
+      "gdp": 1683000
+    },
+    {
+      "name": "South Korea",
+      "population": 51269185,
+      "gdp": 1655087
+    },
+    {
+      "name": "Australia",
+      "population": 25788216,
+      "gdp": 1444162
+    },
+    {
+      "name": "Spain",
+      "population": 46754778,
+      "gdp": 1426830
+    },
+    {
+      "name": "Mexico",
+      "population": 130262216,
+      "gdp": 1218643
+    },
+    {
+      "name": "Indonesia",
+      "population": 273523621,
+      "gdp": 1072833
+    },
+    {
+      "name": "Netherlands",
+      "population": 17171911,
+      "gdp": 908214
+    },
+    {
+      "name": "Saudi Arabia",
+      "population": 34813867,
+      "gdp": 793970
+    },
+    {
+      "name": "Switzerland",
+      "population": 8715491,
+      "gdp": 709337
+    },
+    {
+      "name": "Turkey",
+      "population": 85042739,
+      "gdp": 717044
+    },
+    {
+      "name": "Taiwan",
+      "population": 23816775,
+      "gdp": 605845
+    },
+    {
+      "name": "Poland",
+      "population": 37846767,
+      "gdp": 595116
+    },
+    {
+      "name": "Sweden",
+      "population": 10230185,
+      "gdp": 538575
+    },
+
+    {
+      "name": "Belgium",
+      "population": 11632355,
+      "gdp": 532044
+    }
+  ]
+}
