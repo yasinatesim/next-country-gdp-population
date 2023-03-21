@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import type { NextPage } from 'next';
 import Head from 'next/head';
 
-import CountryList from '@/components/CountryCard/CountryCard';
 import CountryChart from '@/components/CountryChart';
+import CountryList from '@/components/CountryList';
 import CountryTable from '@/components/CountryTable';
 import Tabs from '@/components/Tabs';
 
