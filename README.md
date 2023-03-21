@@ -1,7 +1,7 @@
 <h3 align="center">
   <br />
 
-<a href="https://github.com/yasinatesim/country-gdp-population"><img src="https://yasinates.com/tech/react.svg" alt="React GDP Country App" width="200"></a>
+<a href="https://github.com/yasinatesim/next-country-gdp-population"><img src="https://yasinates.com/tech/react.svg" alt="React GDP Country App" width="200"></a>
 <br />
 React GDP Country App
 <br />
@@ -10,9 +10,9 @@ React GDP Country App
 <hr />
 <p align="center">A React-based web application to view and compare the GDPs of different countries</p>
 <p align="center">
-· <a  href="https://country-gdp-population.yasinatesim.vercel.app/">View Demo</a>
-  · <a href="https://github.com/yasinatesim/country-gdp-population/issues">Report Bug</a>
-  · <a href="https://github.com/yasinatesim/country-gdp-population/issues">Request Feature</a>
+· <a  href="https://next-country-gdp-population.yasinatesim.vercel.app/">View Demo</a>
+  · <a href="https://github.com/yasinatesim/next-country-gdp-population/issues">Report Bug</a>
+  · <a href="https://github.com/yasinatesim/next-country-gdp-population/issues">Request Feature</a>
 </p>
 
 ## 📖 About
@@ -75,7 +75,7 @@ React GDP Country App is a web application that displays the GDPs of different c
 
 ### 📦 Prerequisites
 
-- Node (v14.0.0+)
+- Node (v18.0.0+)
 
 - Npm (v6.00+)
 
@@ -84,7 +84,7 @@ React GDP Country App is a web application that displays the GDPs of different c
 1.  Clone this repository
 
 ```bash
-git clone https://github.com/yasinatesim/country-gdp-population.git
+git clone https://github.com/yasinatesim/next-country-gdp-population.git
 ```
 
 2. Install the project dependencies
@@ -97,6 +97,27 @@ yarn install
 
 ```bash
 yarn dev
+```
+
+
+### For Docker
+
+2. Change the directory
+
+```bash
+cd next-country-gdp-population
+```
+
+3. Run this command **without `yarn` or `yarn install`**
+
+```bash
+yarn setup
+```
+
+or
+
+```bash
+yarn && docker-compose up --build
 ```
 
 App is running on [http://localhost:3000](http://localhost:3000)
@@ -124,7 +145,7 @@ yarn format
 
 - Copyright © 2023 - MIT License.
 
-See [LICENSE](https://github.com/yasinatesim/country-gdp-population/blob/master/LICENSE) for more information.
+See [LICENSE](https://github.com/yasinatesim/next-country-gdp-population/blob/master/LICENSE) for more information.
 
 ---
 
