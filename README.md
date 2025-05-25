@@ -10,7 +10,7 @@ React GDP Country App
 <hr />
 <p align="center">A React-based web application to view and compare the GDPs of different countries</p>
 <p align="center">
-· <a  href="https://next-country-gdp-population.yasinatesim.vercel.app/">View Demo</a>
+· <a  href="https://next-country-gdp-population.yasinates.com">View Demo</a>
   · <a href="https://github.com/yasinatesim/next-country-gdp-population/issues">Report Bug</a>
   · <a href="https://github.com/yasinatesim/next-country-gdp-population/issues">Request Feature</a>
 </p>
